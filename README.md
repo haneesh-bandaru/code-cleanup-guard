@@ -41,7 +41,7 @@ Reply "remove 1 and 2" (or "remove all safe ones") and I'll do it.
 **Claude Code**
 
 ```bash
-git clone https://github.com/<your-username>/code-cleanup-guard ~/.claude/skills/code-cleanup-guard
+git clone https://github.com/haneesh-bandaru/code-cleanup-guard ~/.claude/skills/code-cleanup-guard
 ```
 
 Or place the folder in a project's `.claude/skills/` directory and commit it so your team gets it too.
